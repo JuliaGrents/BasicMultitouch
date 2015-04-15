@@ -1,0 +1,6 @@
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\classes\debug
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-5020a25bbad9ea9a9048bb2ceebc12132958f907.jar
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\pre-dexed\debug\classes-f0c5fb96d3e7b25c892e6046681a034a5a07304b.jar
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\pre-dexed\debug\classes-8eac452a8a9ca0b7bbb747f2b473f576b5fa234f.jar
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-8aa58bcc9c254fcb0fd9a2a9956967e1d3529c70.jar
+C:\Users\user_45\AndroidStudioProjects\BasicMultitouch\Application\build\intermediates\pre-dexed\debug\classes-62f8a4342b5ae56251bf3b8f892ba90a64fd6ce7.jar
