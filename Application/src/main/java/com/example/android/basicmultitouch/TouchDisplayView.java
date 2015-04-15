@@ -304,6 +304,7 @@ public class TouchDisplayView extends View {
 
             // draw the data and its history to the canvas
             drawCircle(canvas, id, data);
+            //jhfjyfjfyjfy
         }
     }
 
